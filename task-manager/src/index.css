@@ -1,0 +1,51 @@
+.input-container { 
+  margin-top: 15px;
+}  
+.input-container label { 
+  font-size: 20px; 
+  margin-right: 10px;
+} 
+
+#container label { 
+  font-size: 20px; 
+  margin-right: 10px;
+} 
+
+.button {  
+  margin-top: 15px; 
+} 
+
+.entry-table { 
+  margin-top: 50px;  
+} 
+
+.entry-table th,
+.entry-table td {
+  padding: 8px 16px; 
+} 
+
+.entry-table tr { 
+  background-color: rgb(190, 208, 211);
+} 
+
+.input-container input { 
+  border-radius: 5px;  
+  border-width: 1px;
+
+} 
+
+#container select { 
+  border-radius: 5px;  
+  border-width: 1px;
+
+} 
+.button {
+  border-radius: 5px;  
+  border-width: 1px;
+} 
+
+#container h1{ 
+ font-size: 30px;   
+ font-family: Arial, Helvetica, sans-serif;
+}  
+ 
